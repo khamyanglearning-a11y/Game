@@ -1,0 +1,6 @@
+{
+  "name": "X-O Arena",
+  "description": "Advanced neon Tic-Tac-Toe web game featuring local 2-player and AI opponents with unbeatable Minimax, sound synthesis, scoreboard, and round history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
